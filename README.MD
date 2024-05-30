@@ -20,7 +20,7 @@ To get started with the project, follow these steps:
 
 1. Clone the repository:
     
-    git clone https://github.com/your-username/ecommerce-web-scraper.git
+    git clone https://github.com/Shivam19-git/web-scraper-go.git
     cd ecommerce-web-scraper
     
 2. Install the necessary dependencies:
