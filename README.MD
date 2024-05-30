@@ -25,8 +25,8 @@ To get started with the project, follow these steps:
     
 2. Install the necessary dependencies:
     
-    go get -u github.com/gocolly/colly
-    go get -u github.com/xuri/excelize/v2
+    - go get -u github.com/gocolly/colly
+    - go get -u github.com/xuri/excelize/v2
     
 
 ## Usage
