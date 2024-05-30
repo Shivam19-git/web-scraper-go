@@ -31,10 +31,10 @@ To get started with the project, follow these steps:
 
 ## Usage
 
-1. Update the `scrapeURL` variable in the `main.go` file with the URL of the  e-commerce page you want to scrape.
+1. Update the `scrapeURL` variable in the `scraper.go` file with the URL of the  e-commerce page you want to scrape.
 2. Run the scraper:
 
-    go run main.go
+    go run scraper.go
 
 3. The scraped data will be saved into an Excel file named `products.xlsx` in the current directory.
 
